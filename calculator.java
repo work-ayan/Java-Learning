@@ -5,7 +5,7 @@ public class calculator {
     // Main method to run the calculator
     public static void main(String[] args) {
         // Create an instance of the Calculation class
-        calculation calculator = new calculation();
+        Calculation calculator = new Calculation();
 
         // Using try-with-resources to ensure the scanner is closed automatically
         try (Scanner sc = new Scanner(System.in)) {
