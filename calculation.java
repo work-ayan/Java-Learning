@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 
-public class Calculation {
+public class calculation {
 
     // Method to perform basic arithmetic operations
     public void basic(double num1, double num2, char operation) {
